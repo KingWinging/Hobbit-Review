@@ -24,9 +24,7 @@
 	background-color:#929596;
 	padding:1px;
 	border: 1px solid black;
-	max-height:25em;
-	min-height:20em;
-	overflow:scroll;
+	overflow:auto;
 	}
 	nav{
 		background-color:#929596;
